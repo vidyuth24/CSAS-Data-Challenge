@@ -8,3 +8,5 @@ If the code doesn't work, please refer to the following link:
 https://colab.research.google.com/drive/1tOZ6KcioPCsj37VscYMrJB8wRhkvZWb1#scrollTo=L_-nafoPPrqn&line=35&uniqifier=1
 
 The second cell recreates the faceted scatterplot as well but includes statistics such as mean, standard deviation, and correlation for each of the 6 pitches not on base and on base outcomes
+If the code doesn't function, please refer to the following link:
+https://colab.research.google.com/drive/1tOZ6KcioPCsj37VscYMrJB8wRhkvZWb1#scrollTo=BSkEletxhwsn&line=1&uniqifier=1
